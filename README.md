@@ -2,7 +2,7 @@
 
 Badge is embedded using:
 ```
-[![Coverage Status](https://coveralls.io/repos/github/xypimr/lab05/badge.svg?branch=main)](https://coveralls.io/github/xypimr/lab05?branch=main)
+[![Coverage Status](https://coveralls.io/repos/github/TelitsynIvan/lab05/badge.svg?branch=master)](https://coveralls.io/github/TelitsynIvan/lab05?branch=master)
 ```
 
 ## Laboratory work V
